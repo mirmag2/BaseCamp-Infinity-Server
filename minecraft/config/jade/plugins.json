@@ -58,6 +58,11 @@
   "mekanismcovers": {
     "cover_component": true
   },
+  "avaritia": {
+    "extreme_smithing": true,
+    "crafting_table": true,
+    "compressor": true
+  },
   "bonsaitrees3": {
     "bonsaipot": true
   },
